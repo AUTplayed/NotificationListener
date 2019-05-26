@@ -1,0 +1,9 @@
+[submodule "NotificationListenerApp"]
+	path = NotificationListenerApp
+	url = https://github.com/AUTplayed/NotificationListenerApp
+[submodule "NotificationListenerServer"]
+	path = NotificationListenerServer
+	url = https://github.com/AUTplayed/NotificationListenerServer
+[submodule "NotificationListenerExtensionChrome"]
+	path = NotificationListenerExtensionChrome
+	url = https://github.com/AUTplayed/NotificationListenerExtensionChrome
