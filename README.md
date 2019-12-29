@@ -12,7 +12,7 @@ It also executes the pending actions supplied by the server.
 The server acts as a relay between the chrome extension and the android app.
 It saves the submitted notifications from the app and sends them to the chrome extension when requested.
 
-It also reveives actions from the chrome extension and sends them to the app as a response to the next notification update.
+It also receives actions from the chrome extension and sends them to the app as a response to the next notification update.
 
 ### Chrome extension
 
